@@ -1,0 +1,19 @@
+node server/index.js
+pasos para construir un servidor con node.js y express
+
+pones el url localhost:8082/index.html
+Descargar los paquetes a utilizar: express, body-parser, mongoose.
+Paso 1
+Abrir la terminal, situándose en el directorio del proyecto y ejecutar el comando: npm install --save express body-parser mongoose tiene q ser fuera de
+la carpeta q tiene todos los proyectos.
+Paso 2
+Utilizar la palabra const en el archivo index y definir 5 constantes a las que se le asignarán su respectivo módulo.
+Paso 3
+Definir el puerto y la aplicación express, y crear el servidor a partir del módulo http.
+Paso 4
+Establecer en la aplicación de express el uso del módulo body-parser, ejecutar la función listen sobre el servidor y crear las rutas del servidor.
+Paso 5
+
+
+
+el nombre de la base de datos esta en la carpeta server y en el index.js
